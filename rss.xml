@@ -4,8 +4,15 @@
         <description><![CDATA[The Blog]]></description>
         <link>http://blog.infomatters.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 20 Aug 2016 01:38:53 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Aug 2016 01:40:54 GMT</lastBuildDate>
         <atom:link href="http://blog.infomatters.io/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[A Tesla saved its owners life by using autopilot to get him to the hospital]]></title>
+            <description><![CDATA[<article><h1>A Tesla saved its owners life by using autopilot to get him to the hospital</h1><p>While autopilot isn't always used for its intended purpose, or even used correctly for that matter, it's undeniable that the feature has utility. Joshua Neally probably recognizes this more than most. After the 37-year-old Neally started suffering from piercing pain in his stomach and chest, he decided to engage his Tesla Model X's autopilot function to get him to the nearest hospital - some 20 miles away.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/0faf47fcfd3452b61302ad7591e9d015/noop.jpg?input=http%3A%2F%2Fcdn1.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2015%2F09%2FTesla-Model-X.jpg"></article>]]></description>
+            <link>http://thenextweb.com/insider/2016/08/08/a-tesla-saved-its-owners-life-by-using-autopilot-to-get-him-to-the-hospital/</link>
+            <guid isPermaLink="false">2aa7e424-b694-4728-9359-d22095a05738</guid>
+            <pubDate>Sat, 20 Aug 2016 01:40:53 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Microsoft leak shows why OS backdoors are dangerous]]></title>
             <description><![CDATA[<article><h1>Microsoft leak shows why OS backdoors are dangerous</h1><p>Security researchers MY123 and Slipstream revealed this week that Microsoft accidentally leaked security keys that allow Windows-based computers, phones and tablets to be unlocked and loaded with other operating systems, as well as malicious software like rootkits. While the company has attempted to patch Windows to fix this, the researchers believe that it'd be impossible for Microsoft to render the leaked keys useless.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/ce5981fc8576b0727e05e1d9fd953b2a/noop.jpg?input=http%3A%2F%2Fcdn1.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2016%2F02%2Fshutterstock_348698471_Microsoft.jpg"></article>]]></description>
