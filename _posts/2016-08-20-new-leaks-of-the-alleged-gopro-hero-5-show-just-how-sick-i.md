@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-20T01:28:05.294Z'
+datePublished: '2016-08-20T01:28:07.950Z'
 sourcePath: >-
   _posts/2016-08-20-new-leaks-of-the-alleged-gopro-hero-5-show-just-how-sick-i.md
 isBasedOnUrl: >-
@@ -18,7 +18,7 @@ keywords:
 related: []
 author: []
 via: {}
-dateModified: '2016-08-20T01:28:04.185Z'
+dateModified: '2016-08-20T01:28:07.587Z'
 title: New leaks of the alleged GoPro Hero 5 show just how 'sick' it really is
 app_links: []
 publisher:
@@ -33,7 +33,7 @@ description: >-
   feature. Another conference. "Great." This one's different, trust us. Our new
   event for New York is focused on quality, not quantity.
 inLanguage: en
-starred: true
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
