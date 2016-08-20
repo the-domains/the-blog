@@ -4,8 +4,15 @@
         <description><![CDATA[The Blog]]></description>
         <link>http://blog.infomatters.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 20 Aug 2016 01:51:37 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Aug 2016 01:59:40 GMT</lastBuildDate>
         <atom:link href="http://blog.infomatters.io/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Intel unveils its own 'merged reality' headset called Project Alloy]]></title>
+            <description><![CDATA[<article><h1>Intel unveils its own 'merged reality' headset called Project Alloy</h1><p>Everyone is making a virtual or augmented reality headset these days. Joining the likes of Microsoft, Sony and ( possibly) Apple, Intel is currently developing a headset that uses its own RealSense depth-sensing cameras, Replay graphics-creation software and other Intel intellectual property.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/dfbfc5538ababaa3bd170cd25da69775/noop.jpg?input=http%3A%2F%2Fcdn1.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2016%2F08%2Fproject-alloy.jpg"></article>]]></description>
+            <link>http://thenextweb.com/insider/2016/08/16/intel-unveils-its-own-merged-reality-headset-called-project-alloy/</link>
+            <guid isPermaLink="false">72e0c48c-0786-4832-b519-5b97f930ca6e</guid>
+            <pubDate>Sat, 20 Aug 2016 01:59:37 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Facebook open-sources AI research so you'll stop making shitty bots]]></title>
             <description><![CDATA[<article><h1>Facebook open-sources AI research so you'll stop making shitty bots</h1><p>Facebook wants to show you how the sausage is made. Facebook is open-sourcing its AI bot-building research. Part of its Facebook AI Research (FAIR) lab's mission, the plan is to provide better access to researchers and engineers to they, in turn, can build better bots.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/6cd53db6fcaafcd4e1cd50b2631b002b/noop.jpg?input=http%3A%2F%2Fcdn1.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2016%2F06%2Ffacebook-messenger-stock.jpg"></article>]]></description>
