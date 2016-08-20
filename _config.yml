@@ -1,17 +1,29 @@
-typography_spectrum: 0.7432614071294665
+title: The Blog
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
-  brandStrength: 0.9992761572357267
-  lightness: 0.8985997810959816
   saturation: 0.8541872987989336
-  rhythmicContrast: 0.23904260760173202
+  brandStrength: 0.9992761572357267
+  rhythmicContrast: 0.239042607601732
   brandColors:
     - '#FCFFF5'
     - '#D1DBBD'
     - '#91AA9D'
     - '#3E606F'
     - '#193441'
-layout_spectrum: 0.1188369719311595
-name: Infomatters
-title: The Blog
+  lightness: 0.8985997810959816
+typography_spectrum: 0.7432614071294665
 description: |
   Curated Articles
+layout_spectrum: 0.2319149
+name: Infomatters
