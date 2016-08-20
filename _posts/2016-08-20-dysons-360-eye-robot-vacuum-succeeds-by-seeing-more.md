@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-20T01:04:14.951Z'
+datePublished: '2016-08-20T01:06:28.125Z'
 sourcePath: _posts/2016-08-20-dysons-360-eye-robot-vacuum-succeeds-by-seeing-more.md
 isBasedOnUrl: 'https://techcrunch.com/2016/08/19/dyson-360-eye-review/'
 keywords:
@@ -19,7 +19,7 @@ author:
     url: 'https://techcrunch.com/author/darrell-etherington/'
     avatar: {}
 via: {}
-dateModified: '2016-08-20T01:04:14.241Z'
+dateModified: '2016-08-20T01:06:26.461Z'
 title: Dyson's 360 Eye robot vacuum succeeds by seeing more
 app_links:
   - path: 'http/https://techcrunch.com/2016/08/19/dyson-360-eye-review/'
