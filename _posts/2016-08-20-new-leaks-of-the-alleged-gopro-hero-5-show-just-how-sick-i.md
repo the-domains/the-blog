@@ -1,7 +1,8 @@
 ---
-datePublished: '2016-08-20T01:28:27.137Z'
+datePublished: '2016-08-20T01:28:53.091Z'
 sourcePath: >-
   _posts/2016-08-20-new-leaks-of-the-alleged-gopro-hero-5-show-just-how-sick-i.md
+inFeed: true
 hasPage: true
 keywords:
   - gopro
@@ -17,7 +18,7 @@ keywords:
 related: []
 author: []
 via: {}
-dateModified: '2016-08-20T01:28:17.325Z'
+dateModified: '2016-08-20T01:28:49.642Z'
 title: New leaks of the alleged GoPro Hero 5 show just how 'sick' it really is
 app_links: []
 publisher:
