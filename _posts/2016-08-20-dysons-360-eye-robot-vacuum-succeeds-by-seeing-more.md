@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-20T01:03:09.501Z'
+datePublished: '2016-08-20T01:04:14.951Z'
 sourcePath: _posts/2016-08-20-dysons-360-eye-robot-vacuum-succeeds-by-seeing-more.md
 isBasedOnUrl: 'https://techcrunch.com/2016/08/19/dyson-360-eye-review/'
 keywords:
@@ -19,7 +19,7 @@ author:
     url: 'https://techcrunch.com/author/darrell-etherington/'
     avatar: {}
 via: {}
-dateModified: '2016-08-20T01:03:08.871Z'
+dateModified: '2016-08-20T01:04:14.241Z'
 title: Dyson's 360 Eye robot vacuum succeeds by seeing more
 app_links:
   - path: 'http/https://techcrunch.com/2016/08/19/dyson-360-eye-review/'
@@ -45,4 +45,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/680c1daf9f0b9f04ed77713f40f76d8d/noop?input=https%3A%2F%2Ftctechcrunch2011.files.wordpress.com%2F2016%2F08%2Fdyson-360-eye-2.jpg%26h%3D683" /><h1>Dyson's 360 Eye robot vacuum succeeds by seeing more</h1><p>Dyson's 360 Eye robot vacuum has been a long time coming to U.S. carpets. The squat little cylinder of a bot first broke cover in September 2014, with a splashy product announcement and a consumer launch in Japan in 2015.</p></article>
+<article style=""><h1>Dyson's 360 Eye robot vacuum succeeds by seeing more</h1><p>Dyson's 360 Eye robot vacuum has been a long time coming to U.S. carpets. The squat little cylinder of a bot first broke cover in September 2014, with a splashy product announcement and a consumer launch in Japan in 2015.</p></article>
