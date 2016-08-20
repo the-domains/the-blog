@@ -4,8 +4,15 @@
         <description><![CDATA[The Blog]]></description>
         <link>http://blog.infomatters.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 20 Aug 2016 01:30:58 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Aug 2016 01:38:53 GMT</lastBuildDate>
         <atom:link href="http://blog.infomatters.io/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Microsoft leak shows why OS backdoors are dangerous]]></title>
+            <description><![CDATA[<article><h1>Microsoft leak shows why OS backdoors are dangerous</h1><p>Security researchers MY123 and Slipstream revealed this week that Microsoft accidentally leaked security keys that allow Windows-based computers, phones and tablets to be unlocked and loaded with other operating systems, as well as malicious software like rootkits. While the company has attempted to patch Windows to fix this, the researchers believe that it'd be impossible for Microsoft to render the leaked keys useless.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/ce5981fc8576b0727e05e1d9fd953b2a/noop.jpg?input=http%3A%2F%2Fcdn1.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2016%2F02%2Fshutterstock_348698471_Microsoft.jpg"></article>]]></description>
+            <link>http://thenextweb.com/microsoft/2016/08/11/microsofts-golden-key-leak-illustrates-why-governments-should-stop-asking-for-backdoors/</link>
+            <guid isPermaLink="false">c2bdf43e-031c-442b-a306-675f7a3410e2</guid>
+            <pubDate>Sat, 20 Aug 2016 01:38:52 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Microsoft open sources PowerShell, brings it to Linux and OS X]]></title>
             <description><![CDATA[<article><h1>Microsoft open sources PowerShell, brings it to Linux and OS X</h1><p>Furthering its mission to work more closely with the developer community, Microsoft is open sourcing PowerShell and making it available on Linux and Mac OS X. PowerShell is the company's task-based command-line shell and scripting language built on the .NET Framework for running and managing system tasks.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/d29f05d95fc8f486f3821102356e4458/noop.jpg?input=http%3A%2F%2Fcdn1.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2016%2F03%2Fmicrosoft-building.jpg"></article>]]></description>
