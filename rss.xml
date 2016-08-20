@@ -4,8 +4,15 @@
         <description><![CDATA[The Blog]]></description>
         <link>http://blog.infomatters.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 20 Aug 2016 01:50:39 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Aug 2016 01:51:37 GMT</lastBuildDate>
         <atom:link href="http://blog.infomatters.io/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Facebook open-sources AI research so you'll stop making shitty bots]]></title>
+            <description><![CDATA[<article><h1>Facebook open-sources AI research so you'll stop making shitty bots</h1><p>Facebook wants to show you how the sausage is made. Facebook is open-sourcing its AI bot-building research. Part of its Facebook AI Research (FAIR) lab's mission, the plan is to provide better access to researchers and engineers to they, in turn, can build better bots.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/6cd53db6fcaafcd4e1cd50b2631b002b/noop.jpg?input=http%3A%2F%2Fcdn1.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2016%2F06%2Ffacebook-messenger-stock.jpg"></article>]]></description>
+            <link>http://thenextweb.com/facebook/2016/08/18/facebook-open-sources-its-ai-building-research-so-youll-stop-building-shitty-bots/</link>
+            <guid isPermaLink="false">a8313289-0776-4e84-b77b-cfa872ae87de</guid>
+            <pubDate>Sat, 20 Aug 2016 01:51:34 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Microsoft open sources PowerShell, brings it to Linux and OS X]]></title>
             <description><![CDATA[<article><h1>Microsoft open sources PowerShell, brings it to Linux and OS X</h1><p>Furthering its mission to work more closely with the developer community, Microsoft is open sourcing PowerShell and making it available on Linux and Mac OS X. PowerShell is the company's task-based command-line shell and scripting language built on the .NET Framework for running and managing system tasks.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/d29f05d95fc8f486f3821102356e4458/noop.jpg?input=http%3A%2F%2Fcdn1.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2016%2F03%2Fmicrosoft-building.jpg"></article>]]></description>
@@ -40,13 +47,6 @@
             <link>http://thenextweb.com/microsoft/2016/08/11/microsofts-golden-key-leak-illustrates-why-governments-should-stop-asking-for-backdoors/</link>
             <guid isPermaLink="false">c2bdf43e-031c-442b-a306-675f7a3410e2</guid>
             <pubDate>Sat, 20 Aug 2016 01:46:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Facebook open-sources AI research so you'll stop making shitty bots]]></title>
-            <description><![CDATA[<article><h1>Facebook open-sources AI research so you'll stop making shitty bots</h1><p>Facebook wants to show you how the sausage is made. Facebook is open-sourcing its AI bot-building research. Part of its Facebook AI Research (FAIR) lab's mission, the plan is to provide better access to researchers and engineers to they, in turn, can build better bots.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/6cd53db6fcaafcd4e1cd50b2631b002b/noop.jpg?input=http%3A%2F%2Fcdn1.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2016%2F06%2Ffacebook-messenger-stock.jpg"></article>]]></description>
-            <link>http://thenextweb.com/facebook/2016/08/18/facebook-open-sources-its-ai-building-research-so-youll-stop-building-shitty-bots/</link>
-            <guid isPermaLink="false">a8313289-0776-4e84-b77b-cfa872ae87de</guid>
-            <pubDate>Sat, 20 Aug 2016 01:20:14 GMT</pubDate>
         </item>
     </channel>
 </rss>
