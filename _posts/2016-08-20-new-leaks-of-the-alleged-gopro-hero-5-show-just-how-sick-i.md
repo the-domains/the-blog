@@ -1,9 +1,8 @@
 ---
-datePublished: '2016-08-20T01:28:07.950Z'
+datePublished: '2016-08-20T01:28:27.137Z'
 sourcePath: >-
   _posts/2016-08-20-new-leaks-of-the-alleged-gopro-hero-5-show-just-how-sick-i.md
-isBasedOnUrl: >-
-  http://thenextweb.com/insider/2016/08/19/new-leaks-of-the-alleged-gopro-hero-5-show-just-how-sick-it-really-is/
+hasPage: true
 keywords:
   - gopro
   - button
@@ -18,7 +17,7 @@ keywords:
 related: []
 author: []
 via: {}
-dateModified: '2016-08-20T01:28:07.587Z'
+dateModified: '2016-08-20T01:28:17.325Z'
 title: New leaks of the alleged GoPro Hero 5 show just how 'sick' it really is
 app_links: []
 publisher:
@@ -34,9 +33,7 @@ description: >-
   event for New York is focused on quality, not quantity.
 inLanguage: en
 starred: false
-inFeed: true
-hasPage: false
-inNav: false
+url: new-leaks-of-the-alleged-gopro-hero-5-show-just-how-sick-i/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
