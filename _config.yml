@@ -1,4 +1,3 @@
-layout_spectrum: 0.1188369719311595
 typography_spectrum: 0.7432614071294665
 color:
   brandStrength: 0.9992761572357267
@@ -11,6 +10,7 @@ color:
     - '#91AA9D'
     - '#3E606F'
     - '#193441'
+layout_spectrum: 0.1188369719311595
 name: Infomatters
 title: The Blog
 description: |
