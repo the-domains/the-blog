@@ -4,8 +4,15 @@
         <description><![CDATA[The Blog]]></description>
         <link>http://blog.infomatters.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 20 Aug 2016 01:49:18 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Aug 2016 01:50:39 GMT</lastBuildDate>
         <atom:link href="http://blog.infomatters.io/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Microsoft open sources PowerShell, brings it to Linux and OS X]]></title>
+            <description><![CDATA[<article><h1>Microsoft open sources PowerShell, brings it to Linux and OS X</h1><p>Furthering its mission to work more closely with the developer community, Microsoft is open sourcing PowerShell and making it available on Linux and Mac OS X. PowerShell is the company's task-based command-line shell and scripting language built on the .NET Framework for running and managing system tasks.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/d29f05d95fc8f486f3821102356e4458/noop.jpg?input=http%3A%2F%2Fcdn1.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2016%2F03%2Fmicrosoft-building.jpg"></article>]]></description>
+            <link>http://thenextweb.com/dd/2016/08/19/microsoft-is-open-sourcing-powershell-and-bringing-to-linux-and-os-x/</link>
+            <guid isPermaLink="false">e46c10de-bfb2-4c93-abd9-f8d05d805060</guid>
+            <pubDate>Sat, 20 Aug 2016 01:50:37 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Dyson's 360 Eye robot vacuum succeeds by seeing more]]></title>
             <description><![CDATA[<article><h1>Dyson's 360 Eye robot vacuum succeeds by seeing more</h1><p>Dyson's 360 Eye robot vacuum has been a long time coming to U.S. carpets. The squat little cylinder of a bot first broke cover in September 2014, with a splashy product announcement and a consumer launch in Japan in 2015.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/680c1daf9f0b9f04ed77713f40f76d8d/noop?input=https%3A%2F%2Ftctechcrunch2011.files.wordpress.com%2F2016%2F08%2Fdyson-360-eye-2.jpg%26h%3D683"></article>]]></description>
@@ -33,13 +40,6 @@
             <link>http://thenextweb.com/microsoft/2016/08/11/microsofts-golden-key-leak-illustrates-why-governments-should-stop-asking-for-backdoors/</link>
             <guid isPermaLink="false">c2bdf43e-031c-442b-a306-675f7a3410e2</guid>
             <pubDate>Sat, 20 Aug 2016 01:46:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Microsoft open sources PowerShell, brings it to Linux and OS X]]></title>
-            <description><![CDATA[<article><h1>Microsoft open sources PowerShell, brings it to Linux and OS X</h1><p>Furthering its mission to work more closely with the developer community, Microsoft is open sourcing PowerShell and making it available on Linux and Mac OS X. PowerShell is the company's task-based command-line shell and scripting language built on the .NET Framework for running and managing system tasks.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/d29f05d95fc8f486f3821102356e4458/noop.jpg?input=http%3A%2F%2Fcdn1.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2016%2F03%2Fmicrosoft-building.jpg"></article>]]></description>
-            <link>http://thenextweb.com/dd/2016/08/19/microsoft-is-open-sourcing-powershell-and-bringing-to-linux-and-os-x/</link>
-            <guid isPermaLink="false">e46c10de-bfb2-4c93-abd9-f8d05d805060</guid>
-            <pubDate>Sat, 20 Aug 2016 01:20:14 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Facebook open-sources AI research so you'll stop making shitty bots]]></title>
