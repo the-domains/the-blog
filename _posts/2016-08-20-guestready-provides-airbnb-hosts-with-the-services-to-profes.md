@@ -39,12 +39,12 @@ isBasedOnUrl: >-
 title: >-
   GuestReady provides Airbnb hosts with the services to professionalize their
   rental
-datePublished: '2016-08-20T00:43:43.055Z'
-dateModified: '2016-08-20T00:43:21.571Z'
+datePublished: '2016-08-20T00:43:53.190Z'
+dateModified: '2016-08-20T00:22:29.462Z'
 via: {}
-starred: false
 sourcePath: >-
   _posts/2016-08-20-guestready-provides-airbnb-hosts-with-the-services-to-profes.md
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
