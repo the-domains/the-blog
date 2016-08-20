@@ -4,8 +4,15 @@
         <description><![CDATA[The Blog]]></description>
         <link>http://blog.infomatters.io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 20 Aug 2016 01:48:35 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Aug 2016 01:49:18 GMT</lastBuildDate>
         <atom:link href="http://blog.infomatters.io/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Dyson's 360 Eye robot vacuum succeeds by seeing more]]></title>
+            <description><![CDATA[<article><h1>Dyson's 360 Eye robot vacuum succeeds by seeing more</h1><p>Dyson's 360 Eye robot vacuum has been a long time coming to U.S. carpets. The squat little cylinder of a bot first broke cover in September 2014, with a splashy product announcement and a consumer launch in Japan in 2015.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/680c1daf9f0b9f04ed77713f40f76d8d/noop?input=https%3A%2F%2Ftctechcrunch2011.files.wordpress.com%2F2016%2F08%2Fdyson-360-eye-2.jpg%26h%3D683"></article>]]></description>
+            <link>https://techcrunch.com/2016/08/19/dyson-360-eye-review/</link>
+            <guid isPermaLink="false">9c6f7519-cc82-4cff-bbc1-9cd4853a88d8</guid>
+            <pubDate>Sat, 20 Aug 2016 01:49:16 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[MIT created a temporary tattoo that can control your connected devices]]></title>
             <description><![CDATA[<article><h1>MIT created a temporary tattoo that can control your connected devices</h1><p>In the future, your tattoos could be as functional as they are expressive. MIT, in partnership with Microsoft, created a new touch interface, DuoSkin, that allows temporary tattoos to interact with smartphones or computers, display output based on body temperature changes and even transmit data using NFC. New York, are you ready?</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/365daad0b291983d658d3e60b602906a/noop.png?input=http%3A%2F%2Fcdn1.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2016%2F08%2Fduo-skin.png"></article>]]></description>
@@ -40,13 +47,6 @@
             <link>http://thenextweb.com/facebook/2016/08/18/facebook-open-sources-its-ai-building-research-so-youll-stop-building-shitty-bots/</link>
             <guid isPermaLink="false">a8313289-0776-4e84-b77b-cfa872ae87de</guid>
             <pubDate>Sat, 20 Aug 2016 01:20:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Dyson's 360 Eye robot vacuum succeeds by seeing more]]></title>
-            <description><![CDATA[<article><h1>Dyson's 360 Eye robot vacuum succeeds by seeing more</h1><p>Dyson's 360 Eye robot vacuum has been a long time coming to U.S. carpets. The squat little cylinder of a bot first broke cover in September 2014, with a splashy product announcement and a consumer launch in Japan in 2015.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/680c1daf9f0b9f04ed77713f40f76d8d/noop?input=https%3A%2F%2Ftctechcrunch2011.files.wordpress.com%2F2016%2F08%2Fdyson-360-eye-2.jpg%26h%3D683"></article>]]></description>
-            <link>https://techcrunch.com/2016/08/19/dyson-360-eye-review/</link>
-            <guid isPermaLink="false">9c6f7519-cc82-4cff-bbc1-9cd4853a88d8</guid>
-            <pubDate>Sat, 20 Aug 2016 01:12:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
