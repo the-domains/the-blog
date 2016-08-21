@@ -5,23 +5,23 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 color:
-  saturation: 0.8541872987989336
-  brandStrength: 0.9992761572357267
-  rhythmicContrast: 0.239042607601732
+  saturation: 0.8541873
+  brandStrength: 0.4787234
+  lightness: 0.8985998
   brandColors:
     - '#FCFFF5'
     - '#D1DBBD'
     - '#91AA9D'
     - '#3E606F'
     - '#193441'
-  lightness: 0.8985997810959816
+  rhythmicContrast: 1
 typography_spectrum: 0.7432614071294665
 description: Curated Articles
 layout_spectrum: 0.7404255
