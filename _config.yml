@@ -21,7 +21,7 @@ color:
     - '#91AA9D'
     - '#3E606F'
     - '#193441'
-  rhythmicContrast: 1
+  rhythmicContrast: 0.05531915
 typography_spectrum: 0.7432614071294665
 description: Curated Articles
 layout_spectrum: 0.7404255
